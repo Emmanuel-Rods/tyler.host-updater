@@ -1,0 +1,572 @@
+{
+  "permit": {
+    "PermitId": "b20efcdf-3359-4e49-afc9-4dfb61a68e49",
+    "PermitNumber": "RBPR-144560-2025",
+    "PermitType": "Residential - New One- and Two-Family Dwelling",
+    "PermitStatus": "Issued",
+    "IssueDate": "2025-04-22T12:34:00Z",
+    "ExpireDate": "2026-08-31T17:12:27Z",
+    "FinalizeDate": null,
+    "ApplyDate": "2025-04-07T15:04:40.243Z",
+    "WorkClassName": "New One- and Two-Family Dwelling",
+    "Description": "Kalas Falls PH 1, Lot 28 - 2 Story Single-Family Home  on Crawlspace, 3133 Sq Ft Conditioned Space with 438 Sq Ft Garage, 4 Bedroom(s), 3 Bath(s), Front & Rear Porch, No Deck, 1 Fireplace(s), Note: [none]",
+    "IVRNumber": "250384",
+    "MainAddress": "1132 DARTFORD GREEN PL \r\nWAKE FOREST, 27587",
+    "MainParcelNumber": "1767390585",
+    "AssignedTo": "Bower, Rose",
+    "AssignedToEmail": "rbower@rolesvillenc.gov",
+    "ProjectName": null,
+    "DistrictName": "Rolesville",
+    "SquareFeet": 0,
+    "Value": 665000,
+    "MainAddressInfo": {
+      "AddressLine1": "1132",
+      "AddressLine2": "DARTFORD GREEN",
+      "AddressLine3": null,
+      "City": "WAKE FOREST",
+      "State": null,
+      "County": null,
+      "Country": null,
+      "PostalCode": "27587",
+      "StreetType": "PL"
+    }
+  },
+  "contacts": {
+    "TotalFound": 5,
+    "Result": [
+      {
+        "ContactTypeName": "Applicant",
+        "GlobalEntityName": "DR Horton INC",
+        "FirstName": "Tracey",
+        "LastName": "Davis",
+        "IsBilling": true,
+        "IsBillingDisplayText": "Yes",
+        "Title": "GC-29676-12/31/26",
+        "ContactStatus": "N/A"
+      },
+      {
+        "ContactTypeName": "Electrical Contractor",
+        "GlobalEntityName": "Romanoff Electric Residential LLC",
+        "FirstName": "Kat",
+        "LastName": "Allen",
+        "IsBilling": true,
+        "IsBillingDisplayText": "Yes",
+        "Title": "E-12915- 06/11/26",
+        "ContactStatus": "Pending"
+      },
+      {
+        "ContactTypeName": "General Contractor",
+        "GlobalEntityName": "DR Horton INC",
+        "FirstName": "Tracey",
+        "LastName": "Davis",
+        "IsBilling": false,
+        "IsBillingDisplayText": "No",
+        "Title": "GC-29676-12/31/26",
+        "ContactStatus": "N/A"
+      },
+      {
+        "ContactTypeName": "Mechanical Contractor",
+        "GlobalEntityName": "Weather Master Heating & Air Conditioning, Inc.",
+        "FirstName": "Melinda",
+        "LastName": "Burns",
+        "IsBilling": true,
+        "IsBillingDisplayText": "Yes",
+        "Title": "H1,2,3 P1-17326  12-31-26  E-14471",
+        "ContactStatus": "N/A"
+      },
+      {
+        "ContactTypeName": "Plumbing Contractor",
+        "GlobalEntityName": "Weather Master Heating & Air Conditioning, Inc.",
+        "FirstName": "Melinda",
+        "LastName": "Burns",
+        "IsBilling": true,
+        "IsBillingDisplayText": "Yes",
+        "Title": "H1,2,3 P1-17326  12-31-26  E-14471",
+        "ContactStatus": "N/A"
+      }
+    ]
+  },
+  "inspections": {
+    "TotalFound": 18,
+    "Result": [
+      {
+        "InspectionId": "f26ba1d9-34d5-4e78-be61-d50cec6d8cca",
+        "InspectionType": "P&I - Building Final",
+        "InspectionTypeDescription": "Building Final",
+        "InspectionStatus": "Passed",
+        "RequestedDate": "2025-08-29T15:44:00Z",
+        "ScheduledStartDate": "2025-08-29T04:00:00Z",
+        "PrimaryInspector": "Alvarez Alex",
+        "PrimaryInspectorEmail": "alejandro.alvarez@wake.gov",
+        "IsReinspectionDisplayText": "No",
+        "WorkflowActionId": null,
+        "InspectionNumber": "824544-2025"
+      },
+      {
+        "InspectionId": "c84ee197-426c-455f-8039-acd67fa14f2c",
+        "InspectionType": "P&I - Electrical Final",
+        "InspectionTypeDescription": "Electrical Final",
+        "InspectionStatus": "Passed",
+        "RequestedDate": "2025-07-11T16:37:43Z",
+        "ScheduledStartDate": "2025-07-11T04:00:00Z",
+        "PrimaryInspector": "Privette Emerson",
+        "PrimaryInspectorEmail": "emerson.privette@wake.gov",
+        "IsReinspectionDisplayText": "No",
+        "WorkflowActionId": null,
+        "InspectionNumber": "805091-2025"
+      },
+      {
+        "InspectionId": "3a991cb2-aa99-43ac-a709-7f9499dbb081",
+        "InspectionType": "P&I - Electrical Rough",
+        "InspectionTypeDescription": "Electrical Rough",
+        "InspectionStatus": "Passed",
+        "RequestedDate": "2025-05-27T15:50:10Z",
+        "ScheduledStartDate": "2025-05-27T04:00:00Z",
+        "PrimaryInspector": "Piratzky Andy",
+        "PrimaryInspectorEmail": "andy.piratzky@wake.gov",
+        "IsReinspectionDisplayText": "No",
+        "WorkflowActionId": null,
+        "InspectionNumber": "787194-2025"
+      },
+      {
+        "InspectionId": "4a7ff7c4-1bfc-4f41-be67-3341e53f2ec9",
+        "InspectionType": "P&I - Floor Framing",
+        "InspectionTypeDescription": "Floor Framing",
+        "InspectionStatus": "Passed",
+        "RequestedDate": "2025-05-08T04:00:00Z",
+        "ScheduledStartDate": "2025-05-08T13:00:00Z",
+        "PrimaryInspector": "McLaughlin Matthew",
+        "PrimaryInspectorEmail": "Matthew.McLaughlin@wake.gov",
+        "IsReinspectionDisplayText": "No",
+        "WorkflowActionId": null,
+        "InspectionNumber": "780794-2025"
+      },
+      {
+        "InspectionId": "48ec3839-2288-4252-9650-c7ec838e988d",
+        "InspectionType": "P&I - Footing or Monolithic Slab",
+        "InspectionTypeDescription": "Footing or Monolithic Slab",
+        "InspectionStatus": "Passed",
+        "RequestedDate": "2025-05-07T16:08:06Z",
+        "ScheduledStartDate": "2025-05-07T04:00:00Z",
+        "PrimaryInspector": "Alvarez Alex",
+        "PrimaryInspectorEmail": "alejandro.alvarez@wake.gov",
+        "IsReinspectionDisplayText": "No",
+        "WorkflowActionId": null,
+        "InspectionNumber": "779839-2025"
+      },
+      {
+        "InspectionId": "ed9adc72-d14e-4373-9a2a-11a2ae971aad",
+        "InspectionType": "P&I - Foundation",
+        "InspectionTypeDescription": "Foundation",
+        "InspectionStatus": "Passed",
+        "RequestedDate": "2025-05-08T16:02:35Z",
+        "ScheduledStartDate": "2025-05-08T04:00:00Z",
+        "PrimaryInspector": "McLaughlin Matthew",
+        "PrimaryInspectorEmail": "Matthew.McLaughlin@wake.gov",
+        "IsReinspectionDisplayText": "No",
+        "WorkflowActionId": null,
+        "InspectionNumber": "780376-2025"
+      },
+      {
+        "InspectionId": "48db665f-57da-4b8d-a22a-0642e9450b79",
+        "InspectionType": "P&I - Framing",
+        "InspectionTypeDescription": "Framing",
+        "InspectionStatus": "Passed with Conditions",
+        "RequestedDate": "2025-05-28T15:47:18Z",
+        "ScheduledStartDate": "2025-05-28T04:00:00Z",
+        "PrimaryInspector": "McLaughlin Matthew",
+        "PrimaryInspectorEmail": "Matthew.McLaughlin@wake.gov",
+        "IsReinspectionDisplayText": "No",
+        "WorkflowActionId": null,
+        "InspectionNumber": "787767-2025"
+      },
+      {
+        "InspectionId": "edd65c1e-a388-4803-9123-10aa06a70b08",
+        "InspectionType": "P&I - Insulation",
+        "InspectionTypeDescription": "Insulation",
+        "InspectionStatus": "Passed",
+        "RequestedDate": "2025-06-06T16:32:41Z",
+        "ScheduledStartDate": "2025-06-06T04:00:00Z",
+        "PrimaryInspector": "McLaughlin Matthew",
+        "PrimaryInspectorEmail": "Matthew.McLaughlin@wake.gov",
+        "IsReinspectionDisplayText": "No",
+        "WorkflowActionId": null,
+        "InspectionNumber": "792021-2025"
+      },
+      {
+        "InspectionId": "61ac097e-c7d9-485b-8659-dbc0aaeedd30",
+        "InspectionType": "P&I - Insulation",
+        "InspectionTypeDescription": "Insulation",
+        "InspectionStatus": "Re-inspection required with fee - Permit",
+        "RequestedDate": "2025-06-04T15:15:35Z",
+        "ScheduledStartDate": "2025-06-04T04:00:00Z",
+        "PrimaryInspector": "McLaughlin Matthew",
+        "PrimaryInspectorEmail": "Matthew.McLaughlin@wake.gov",
+        "IsReinspectionDisplayText": "No",
+        "WorkflowActionId": null,
+        "InspectionNumber": "790727-2025"
+      },
+      {
+        "InspectionId": "9e02a27d-3655-4d3f-b99b-3c57e06beb24",
+        "InspectionType": "P&I - Mechanical Final",
+        "InspectionTypeDescription": "Mechanical Final",
+        "InspectionStatus": "Passed",
+        "RequestedDate": "2025-07-11T18:13:02Z",
+        "ScheduledStartDate": "2025-07-11T04:00:00Z",
+        "PrimaryInspector": "Privette Emerson",
+        "PrimaryInspectorEmail": "emerson.privette@wake.gov",
+        "IsReinspectionDisplayText": "No",
+        "WorkflowActionId": null,
+        "InspectionNumber": "805250-2025"
+      },
+      {
+        "InspectionId": "eb748bca-47de-4b50-84cf-f2af7582013d",
+        "InspectionType": "P&I - Mechanical Rough",
+        "InspectionTypeDescription": "Mechanical Rough",
+        "InspectionStatus": "Passed",
+        "RequestedDate": "2025-05-23T16:24:44Z",
+        "ScheduledStartDate": "2025-05-23T04:00:00Z",
+        "PrimaryInspector": "Privette Emerson",
+        "PrimaryInspectorEmail": "emerson.privette@wake.gov",
+        "IsReinspectionDisplayText": "No",
+        "WorkflowActionId": null,
+        "InspectionNumber": "786676-2025"
+      },
+      {
+        "InspectionId": "469ed9da-5d52-47b4-b6d0-9351a08b6361",
+        "InspectionType": "P&I - Mechanical Rough",
+        "InspectionTypeDescription": "Mechanical Rough",
+        "InspectionStatus": "Re-inspection required with fee - Permit",
+        "RequestedDate": "2025-05-22T17:43:18Z",
+        "ScheduledStartDate": "2025-05-22T04:00:00Z",
+        "PrimaryInspector": "Privette Emerson",
+        "PrimaryInspectorEmail": "emerson.privette@wake.gov",
+        "IsReinspectionDisplayText": "No",
+        "WorkflowActionId": null,
+        "InspectionNumber": "786130-2025"
+      },
+      {
+        "InspectionId": "9b3081d6-fd92-4686-837d-063dfc2fdc34",
+        "InspectionType": "P&I - Plumbing Final",
+        "InspectionTypeDescription": "Plumbing Final",
+        "InspectionStatus": "Passed",
+        "RequestedDate": "2025-07-14T14:01:07Z",
+        "ScheduledStartDate": "2025-07-14T04:00:00Z",
+        "PrimaryInspector": "Privette Emerson",
+        "PrimaryInspectorEmail": "emerson.privette@wake.gov",
+        "IsReinspectionDisplayText": "No",
+        "WorkflowActionId": null,
+        "InspectionNumber": "806109-2025"
+      },
+      {
+        "InspectionId": "138e7545-a62c-42c7-b80c-c1de5d8b3f0a",
+        "InspectionType": "P&I - Plumbing Groundwork",
+        "InspectionTypeDescription": "Plumbing Groundwork",
+        "InspectionStatus": "Passed",
+        "RequestedDate": "2025-06-20T17:01:54Z",
+        "ScheduledStartDate": "2025-06-20T04:00:00Z",
+        "PrimaryInspector": "Ielfield Raymond",
+        "PrimaryInspectorEmail": "raymond.ielfield@wake.gov",
+        "IsReinspectionDisplayText": "No",
+        "WorkflowActionId": null,
+        "InspectionNumber": "797249-2025"
+      },
+      {
+        "InspectionId": "511d104d-4438-491d-a42f-7f8a249d53fc",
+        "InspectionType": "P&I - Plumbing Rough",
+        "InspectionTypeDescription": "Plumbing Rough",
+        "InspectionStatus": "Passed",
+        "RequestedDate": "2025-05-21T13:03:02Z",
+        "ScheduledStartDate": "2025-05-21T04:00:00Z",
+        "PrimaryInspector": "Privette Emerson",
+        "PrimaryInspectorEmail": "emerson.privette@wake.gov",
+        "IsReinspectionDisplayText": "No",
+        "WorkflowActionId": null,
+        "InspectionNumber": "785233-2025"
+      },
+      {
+        "InspectionId": "7ee42987-9c5d-492c-8e2d-d1af2ecac79b",
+        "InspectionType": "P&I - Sewer Connection",
+        "InspectionTypeDescription": "Sewer Connection",
+        "InspectionStatus": "Passed",
+        "RequestedDate": "2025-06-20T13:49:17Z",
+        "ScheduledStartDate": "2025-06-20T04:00:00Z",
+        "PrimaryInspector": "Ielfield Raymond",
+        "PrimaryInspectorEmail": "raymond.ielfield@wake.gov",
+        "IsReinspectionDisplayText": "No",
+        "WorkflowActionId": null,
+        "InspectionNumber": "797047-2025"
+      },
+      {
+        "InspectionId": "ffd2f658-b971-4402-b09e-5837dcb2fdfb",
+        "InspectionType": "P&I - Sewer Connection",
+        "InspectionTypeDescription": "Sewer Connection",
+        "InspectionStatus": "Passed",
+        "RequestedDate": "2025-06-20T17:01:51Z",
+        "ScheduledStartDate": "2025-06-20T04:00:00Z",
+        "PrimaryInspector": "Ielfield Raymond",
+        "PrimaryInspectorEmail": "raymond.ielfield@wake.gov",
+        "IsReinspectionDisplayText": "No",
+        "WorkflowActionId": null,
+        "InspectionNumber": "797248-2025"
+      },
+      {
+        "InspectionId": "3de439bd-665d-4fb4-b7f8-bf784f2cb18a",
+        "InspectionType": "P&I - Water Connection",
+        "InspectionTypeDescription": "Water Connection",
+        "InspectionStatus": "Passed",
+        "RequestedDate": "2025-06-20T13:49:14Z",
+        "ScheduledStartDate": "2025-06-20T04:00:00Z",
+        "PrimaryInspector": "Ielfield Raymond",
+        "PrimaryInspectorEmail": "raymond.ielfield@wake.gov",
+        "IsReinspectionDisplayText": "No",
+        "WorkflowActionId": null,
+        "InspectionNumber": "797046-2025"
+      }
+    ]
+  },
+  "summary": {
+    "Result": [
+      {
+        "Name": "Issue Permit",
+        "FriendlyName": "Issue Permit",
+        "ActivityType": "CreateReport",
+        "ActivityTypeName": "Create Report",
+        "ActivityStatusName": null,
+        "CompletedOn": null,
+        "ScheduledStartDate": null,
+        "Status": 0
+      },
+      {
+        "Name": "WM - S&E Control Permit",
+        "FriendlyName": "WM - S&E Control Permit",
+        "ActivityType": "CreateSubPermit",
+        "ActivityTypeName": "Permit",
+        "ActivityStatusName": null,
+        "CompletedOn": "2022-06-01T15:54:42Z",
+        "ScheduledStartDate": null,
+        "Status": 0
+      },
+      {
+        "Name": "Application Review",
+        "FriendlyName": "Application Review",
+        "ActivityType": "ReceiveSubmittal",
+        "ActivityTypeName": "Submittal",
+        "ActivityStatusName": null,
+        "CompletedOn": "2025-04-10T04:00:00Z",
+        "ScheduledStartDate": null,
+        "Status": 0
+      },
+      {
+        "Name": "Residential Plan Review",
+        "FriendlyName": "Residential Plan Review",
+        "ActivityType": "ReceiveSubmittal",
+        "ActivityTypeName": "Submittal",
+        "ActivityStatusName": null,
+        "CompletedOn": "2025-04-16T04:00:00Z",
+        "ScheduledStartDate": null,
+        "Status": 0
+      },
+      {
+        "Name": "P&I - Footing or Monolithic Slab",
+        "FriendlyName": "P&I - Footing or Monolithic Slab",
+        "ActivityType": "Inspection",
+        "ActivityTypeName": "Inspection",
+        "ActivityStatusName": "Passed",
+        "CompletedOn": "2025-05-07T13:01:14.057Z",
+        "ScheduledStartDate": "2025-05-07T04:00:00Z",
+        "Status": 0
+      },
+      {
+        "Name": "P&I - Foundation",
+        "FriendlyName": "P&I - Foundation",
+        "ActivityType": "Inspection",
+        "ActivityTypeName": "Inspection",
+        "ActivityStatusName": "Passed",
+        "CompletedOn": "2025-05-08T13:06:15.87Z",
+        "ScheduledStartDate": "2025-05-08T04:00:00Z",
+        "Status": 0
+      },
+      {
+        "Name": "P&I - Floor Framing",
+        "FriendlyName": "P&I - Floor Framing",
+        "ActivityType": "Inspection",
+        "ActivityTypeName": "Inspection",
+        "ActivityStatusName": "Passed",
+        "CompletedOn": "2025-05-08T13:12:32.78Z",
+        "ScheduledStartDate": "2025-05-08T13:00:00Z",
+        "Status": 0
+      },
+      {
+        "Name": "P&I - Plumbing Rough",
+        "FriendlyName": "P&I - Plumbing Rough",
+        "ActivityType": "Inspection",
+        "ActivityTypeName": "Inspection",
+        "ActivityStatusName": "Passed",
+        "CompletedOn": "2025-05-21T17:38:38.907Z",
+        "ScheduledStartDate": "2025-05-21T04:00:00Z",
+        "Status": 0
+      },
+      {
+        "Name": "P&I - Mechanical Rough",
+        "FriendlyName": "P&I - Mechanical Rough",
+        "ActivityType": "Inspection",
+        "ActivityTypeName": "Inspection",
+        "ActivityStatusName": "Re-inspection required with fee - Permit",
+        "CompletedOn": "2025-05-22T11:52:09.543Z",
+        "ScheduledStartDate": "2025-05-22T04:00:00Z",
+        "Status": 3
+      },
+      {
+        "Name": "P&I - Mechanical Rough",
+        "FriendlyName": "P&I - Mechanical Rough",
+        "ActivityType": "Inspection",
+        "ActivityTypeName": "Inspection",
+        "ActivityStatusName": "Passed",
+        "CompletedOn": "2025-05-23T17:41:48.007Z",
+        "ScheduledStartDate": "2025-05-23T04:00:00Z",
+        "Status": 0
+      },
+      {
+        "Name": "P&I - Electrical Rough",
+        "FriendlyName": "P&I - Electrical Rough",
+        "ActivityType": "Inspection",
+        "ActivityTypeName": "Inspection",
+        "ActivityStatusName": "Passed",
+        "CompletedOn": "2025-05-27T15:32:41.817Z",
+        "ScheduledStartDate": "2025-05-27T04:00:00Z",
+        "Status": 0
+      },
+      {
+        "Name": "P&I - Framing",
+        "FriendlyName": "P&I - Framing",
+        "ActivityType": "Inspection",
+        "ActivityTypeName": "Inspection",
+        "ActivityStatusName": "Passed with Conditions",
+        "CompletedOn": "2025-05-28T14:41:15.607Z",
+        "ScheduledStartDate": "2025-05-28T04:00:00Z",
+        "Status": 0
+      },
+      {
+        "Name": "P&I - Insulation",
+        "FriendlyName": "P&I - Insulation",
+        "ActivityType": "Inspection",
+        "ActivityTypeName": "Inspection",
+        "ActivityStatusName": "Re-inspection required with fee - Permit",
+        "CompletedOn": "2025-06-04T17:18:21.577Z",
+        "ScheduledStartDate": "2025-06-04T04:00:00Z",
+        "Status": 3
+      },
+      {
+        "Name": "P&I - Insulation",
+        "FriendlyName": "P&I - Insulation",
+        "ActivityType": "Inspection",
+        "ActivityTypeName": "Inspection",
+        "ActivityStatusName": "Passed",
+        "CompletedOn": "2025-06-06T14:43:56.893Z",
+        "ScheduledStartDate": "2025-06-06T04:00:00Z",
+        "Status": 0
+      },
+      {
+        "Name": "P&I - Water Connection",
+        "FriendlyName": "P&I - Water Connection",
+        "ActivityType": "Inspection",
+        "ActivityTypeName": "Inspection",
+        "ActivityStatusName": "Passed",
+        "CompletedOn": "2025-06-20T18:56:19.22Z",
+        "ScheduledStartDate": "2025-06-20T04:00:00Z",
+        "Status": 0
+      },
+      {
+        "Name": "P&I - Sewer Connection",
+        "FriendlyName": "P&I - Sewer Connection",
+        "ActivityType": "Inspection",
+        "ActivityTypeName": "Inspection",
+        "ActivityStatusName": "Passed",
+        "CompletedOn": "2025-06-20T18:56:19.22Z",
+        "ScheduledStartDate": "2025-06-20T04:00:00Z",
+        "Status": 0
+      },
+      {
+        "Name": "P&I - Plumbing Groundwork",
+        "FriendlyName": "P&I - Plumbing Groundwork",
+        "ActivityType": "Inspection",
+        "ActivityTypeName": "Inspection",
+        "ActivityStatusName": "Passed",
+        "CompletedOn": "2025-06-20T18:56:19.23Z",
+        "ScheduledStartDate": "2025-06-20T04:00:00Z",
+        "Status": 0
+      },
+      {
+        "Name": "P&I - Sewer Connection",
+        "FriendlyName": "P&I - Sewer Connection",
+        "ActivityType": "Inspection",
+        "ActivityTypeName": "Inspection",
+        "ActivityStatusName": "Passed",
+        "CompletedOn": "2025-06-20T18:56:19.23Z",
+        "ScheduledStartDate": "2025-06-20T04:00:00Z",
+        "Status": 0
+      },
+      {
+        "Name": "P&I - Electrical Final",
+        "FriendlyName": "P&I - Electrical Final",
+        "ActivityType": "Inspection",
+        "ActivityTypeName": "Inspection",
+        "ActivityStatusName": "Passed",
+        "CompletedOn": "2025-07-11T12:48:05.533Z",
+        "ScheduledStartDate": "2025-07-11T04:00:00Z",
+        "Status": 0
+      },
+      {
+        "Name": "P&I - Mechanical Final",
+        "FriendlyName": "P&I - Mechanical Final",
+        "ActivityType": "Inspection",
+        "ActivityTypeName": "Inspection",
+        "ActivityStatusName": "Passed",
+        "CompletedOn": "2025-07-11T13:02:53.59Z",
+        "ScheduledStartDate": "2025-07-11T04:00:00Z",
+        "Status": 0
+      },
+      {
+        "Name": "P&I - Plumbing Final",
+        "FriendlyName": "P&I - Plumbing Final",
+        "ActivityType": "Inspection",
+        "ActivityTypeName": "Inspection",
+        "ActivityStatusName": "Passed",
+        "CompletedOn": "2025-07-14T12:22:55.2Z",
+        "ScheduledStartDate": "2025-07-14T04:00:00Z",
+        "Status": 0
+      },
+      {
+        "Name": "P&I - Building Final",
+        "FriendlyName": "P&I - Building Final",
+        "ActivityType": "Inspection",
+        "ActivityTypeName": "Inspection",
+        "ActivityStatusName": "Passed",
+        "CompletedOn": "2025-08-29T17:12:45.443Z",
+        "ScheduledStartDate": "2025-08-29T04:00:00Z",
+        "Status": 0
+      },
+      {
+        "Name": "Notify Utility Companies",
+        "FriendlyName": "Notify Utility Companies",
+        "ActivityType": "GenericAction",
+        "ActivityTypeName": "Generic Action",
+        "ActivityStatusName": null,
+        "CompletedOn": null,
+        "ScheduledStartDate": null,
+        "Status": 1
+      },
+      {
+        "Name": "Issue CO",
+        "FriendlyName": "Issue CO",
+        "ActivityType": "CreateReport",
+        "ActivityTypeName": "Create Report",
+        "ActivityStatusName": null,
+        "CompletedOn": null,
+        "ScheduledStartDate": null,
+        "Status": 1
+      }
+    ]
+  }
+}

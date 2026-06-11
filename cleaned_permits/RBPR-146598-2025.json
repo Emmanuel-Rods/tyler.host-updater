@@ -1,0 +1,423 @@
+{
+  "permit": {
+    "PermitId": "43cfcb07-eeea-4e70-b05d-39a97c209726",
+    "PermitNumber": "RBPR-146598-2025",
+    "PermitType": "Residential - New One- and Two-Family Dwelling",
+    "PermitStatus": "Issued",
+    "IssueDate": "2025-08-07T04:00:00Z",
+    "ExpireDate": "2027-02-23T16:18:18Z",
+    "FinalizeDate": null,
+    "ApplyDate": "2025-05-05T19:02:34.167Z",
+    "WorkClassName": "New One- and Two-Family Dwelling",
+    "Description": "LEO @ WENDELL, ***2020 NEC TO BE USED***  - 2 Story Single-Family Home  on Slab, 1510 Sq Ft Conditioned Space with 0 Sq Ft Garage, 3 Bedroom(s), 3 Bath(s), Front & Side Porch, No Deck, No Fireplace(s), Note: ***AMENDED-NEW REVERSE PLANS***",
+    "IVRNumber": "252478",
+    "MainAddress": "858 BIG SPRING RD \r\nWENDELL, 27591",
+    "MainParcelNumber": "1774542756",
+    "AssignedTo": "Brantley, Stephany",
+    "AssignedToEmail": "sbrantley@townofwendellnc.gov",
+    "ProjectName": null,
+    "DistrictName": "Wendell",
+    "SquareFeet": 0,
+    "Value": 166100,
+    "MainAddressInfo": {
+      "AddressLine1": "858",
+      "AddressLine2": "BIG SPRING",
+      "AddressLine3": null,
+      "City": "WENDELL",
+      "State": null,
+      "County": null,
+      "Country": null,
+      "PostalCode": "27591",
+      "StreetType": "RD"
+    }
+  },
+  "contacts": {
+    "TotalFound": 7,
+    "Result": [
+      {
+        "ContactTypeName": "Applicant",
+        "GlobalEntityName": "Advenir Azora Development, LLC",
+        "FirstName": "Scott",
+        "LastName": "Weathers",
+        "IsBilling": true,
+        "IsBillingDisplayText": "Yes",
+        "Title": null,
+        "ContactStatus": "N/A"
+      },
+      {
+        "ContactTypeName": "Applicant",
+        "GlobalEntityName": "Advenir Azora Development, LLC",
+        "FirstName": "Scott",
+        "LastName": "Weathers",
+        "IsBilling": false,
+        "IsBillingDisplayText": "No",
+        "Title": null,
+        "ContactStatus": "N/A"
+      },
+      {
+        "ContactTypeName": "Electrical Contractor",
+        "GlobalEntityName": "J/J Electrical Services LLC",
+        "FirstName": null,
+        "LastName": null,
+        "IsBilling": false,
+        "IsBillingDisplayText": "No",
+        "Title": "E - 35774-12/15/26",
+        "ContactStatus": "N/A"
+      },
+      {
+        "ContactTypeName": "General Contractor",
+        "GlobalEntityName": "Tricor Homes",
+        "FirstName": "Tanner",
+        "LastName": "Bayne",
+        "IsBilling": true,
+        "IsBillingDisplayText": "Yes",
+        "Title": "GC-108683-12/31/26",
+        "ContactStatus": "N/A"
+      },
+      {
+        "ContactTypeName": "Mechanical Contractor",
+        "GlobalEntityName": "Weather Master Heating & Air Conditioning, Inc.",
+        "FirstName": "Melinda",
+        "LastName": "Burns",
+        "IsBilling": true,
+        "IsBillingDisplayText": "Yes",
+        "Title": "H1,2,3 P1-17326  12-31-26  E-14471",
+        "ContactStatus": "N/A"
+      },
+      {
+        "ContactTypeName": "Owner",
+        "GlobalEntityName": "Advenir Azora Development",
+        "FirstName": "Mike",
+        "LastName": "Anna",
+        "IsBilling": true,
+        "IsBillingDisplayText": "Yes",
+        "Title": null,
+        "ContactStatus": "N/A"
+      },
+      {
+        "ContactTypeName": "Plumbing Contractor",
+        "GlobalEntityName": "Weather Master Heating & Air Conditioning, Inc.",
+        "FirstName": "Melinda",
+        "LastName": "Burns",
+        "IsBilling": true,
+        "IsBillingDisplayText": "Yes",
+        "Title": "H1,2,3 P1-17326  12-31-26  E-14471",
+        "ContactStatus": "N/A"
+      }
+    ]
+  },
+  "inspections": {
+    "TotalFound": 5,
+    "Result": [
+      {
+        "InspectionId": "0a52fa3a-0314-4998-a8e8-893e65a306cf",
+        "InspectionType": "P&I - Plumbing Groundwork",
+        "InspectionTypeDescription": "Plumbing Groundwork",
+        "InspectionStatus": "Passed",
+        "RequestedDate": "2026-02-23T17:28:02Z",
+        "ScheduledStartDate": "2026-02-23T05:00:00Z",
+        "PrimaryInspector": "Clarke Terrance",
+        "PrimaryInspectorEmail": "Terrance.Clarke@wake.gov",
+        "IsReinspectionDisplayText": "No",
+        "WorkflowActionId": null,
+        "InspectionNumber": "885835-2026"
+      },
+      {
+        "InspectionId": "b2c267ba-e1bb-4d7e-9a75-b84a344f04c9",
+        "InspectionType": "P&I - Plumbing Groundwork",
+        "InspectionTypeDescription": "Plumbing Groundwork",
+        "InspectionStatus": "Re-inspection required with fee - Permit",
+        "RequestedDate": "2026-02-19T18:40:07Z",
+        "ScheduledStartDate": "2026-02-19T05:00:00Z",
+        "PrimaryInspector": "Alexander Michael",
+        "PrimaryInspectorEmail": "Michael.Alexander@wake.gov",
+        "IsReinspectionDisplayText": "No",
+        "WorkflowActionId": null,
+        "InspectionNumber": "884734-2026"
+      },
+      {
+        "InspectionId": "e8f2945b-291d-4e22-a37a-6fc57a5a7a3a",
+        "InspectionType": "P&I - Sewer Connection",
+        "InspectionTypeDescription": "Sewer Connection",
+        "InspectionStatus": "Passed",
+        "RequestedDate": "2026-02-19T18:40:03Z",
+        "ScheduledStartDate": "2026-02-19T05:00:00Z",
+        "PrimaryInspector": "Alexander Michael",
+        "PrimaryInspectorEmail": "Michael.Alexander@wake.gov",
+        "IsReinspectionDisplayText": "No",
+        "WorkflowActionId": null,
+        "InspectionNumber": "884733-2026"
+      },
+      {
+        "InspectionId": "c982caca-e465-4a86-8f17-4f273f8e11aa",
+        "InspectionType": "P&I - Water Connection",
+        "InspectionTypeDescription": "Water Connection",
+        "InspectionStatus": "Passed",
+        "RequestedDate": "2026-02-19T18:39:58Z",
+        "ScheduledStartDate": "2026-02-19T05:00:00Z",
+        "PrimaryInspector": "Alexander Michael",
+        "PrimaryInspectorEmail": "Michael.Alexander@wake.gov",
+        "IsReinspectionDisplayText": "No",
+        "WorkflowActionId": null,
+        "InspectionNumber": "884732-2026"
+      },
+      {
+        "InspectionId": "c5f2fe7f-cc0e-4f8a-bae8-306f4f46ee29",
+        "InspectionType": "P&I - Zoning Setbacks",
+        "InspectionTypeDescription": "Zoning Setbacks",
+        "InspectionStatus": "Passed",
+        "RequestedDate": "2026-01-20T17:03:14Z",
+        "ScheduledStartDate": "2026-01-20T05:00:00Z",
+        "PrimaryInspector": "Hales Daryl",
+        "PrimaryInspectorEmail": "dhales@townofwendellnc.gov",
+        "IsReinspectionDisplayText": "No",
+        "WorkflowActionId": null,
+        "InspectionNumber": "873291-2026"
+      }
+    ]
+  },
+  "summary": {
+    "Result": [
+      {
+        "Name": "Issue Permit",
+        "FriendlyName": "Issue Permit",
+        "ActivityType": "CreateReport",
+        "ActivityTypeName": "Create Report",
+        "ActivityStatusName": null,
+        "CompletedOn": null,
+        "ScheduledStartDate": null,
+        "Status": 0
+      },
+      {
+        "Name": "WM - S&E Control Permit",
+        "FriendlyName": "WM - S&E Control Permit",
+        "ActivityType": "CreateSubPermit",
+        "ActivityTypeName": "Permit",
+        "ActivityStatusName": null,
+        "CompletedOn": "2024-09-11T18:18:56Z",
+        "ScheduledStartDate": null,
+        "Status": 0
+      },
+      {
+        "Name": "Application Review",
+        "FriendlyName": "Application Review",
+        "ActivityType": "ReceiveSubmittal",
+        "ActivityTypeName": "Submittal",
+        "ActivityStatusName": null,
+        "CompletedOn": "2025-05-07T04:00:00Z",
+        "ScheduledStartDate": null,
+        "Status": 0
+      },
+      {
+        "Name": "Residential Plan Review",
+        "FriendlyName": "Residential Plan Review",
+        "ActivityType": "ReceiveSubmittal",
+        "ActivityTypeName": "Submittal",
+        "ActivityStatusName": null,
+        "CompletedOn": "2025-05-20T04:00:00Z",
+        "ScheduledStartDate": null,
+        "Status": 3
+      },
+      {
+        "Name": "Residential Plan Review",
+        "FriendlyName": "Residential Plan Review",
+        "ActivityType": "ReceiveSubmittal",
+        "ActivityTypeName": "Submittal",
+        "ActivityStatusName": null,
+        "CompletedOn": "2025-07-22T04:00:00Z",
+        "ScheduledStartDate": null,
+        "Status": 0
+      },
+      {
+        "Name": "Residential Plan Review",
+        "FriendlyName": "Residential Plan Review",
+        "ActivityType": "ReceiveSubmittal",
+        "ActivityTypeName": "Submittal",
+        "ActivityStatusName": null,
+        "CompletedOn": "2025-09-24T04:00:00Z",
+        "ScheduledStartDate": null,
+        "Status": 0
+      },
+      {
+        "Name": "P&I - Zoning Setbacks",
+        "FriendlyName": "P&I - Zoning Setbacks",
+        "ActivityType": "Inspection",
+        "ActivityTypeName": "Inspection",
+        "ActivityStatusName": "Passed",
+        "CompletedOn": "2026-01-20T16:03:05.343Z",
+        "ScheduledStartDate": "2026-01-20T05:00:00Z",
+        "Status": 0
+      },
+      {
+        "Name": "P&I - Water Connection",
+        "FriendlyName": "P&I - Water Connection",
+        "ActivityType": "Inspection",
+        "ActivityTypeName": "Inspection",
+        "ActivityStatusName": "Passed",
+        "CompletedOn": "2026-02-19T19:40:16.833Z",
+        "ScheduledStartDate": "2026-02-19T05:00:00Z",
+        "Status": 0
+      },
+      {
+        "Name": "P&I - Sewer Connection",
+        "FriendlyName": "P&I - Sewer Connection",
+        "ActivityType": "Inspection",
+        "ActivityTypeName": "Inspection",
+        "ActivityStatusName": "Passed",
+        "CompletedOn": "2026-02-19T19:41:04.707Z",
+        "ScheduledStartDate": "2026-02-19T05:00:00Z",
+        "Status": 0
+      },
+      {
+        "Name": "P&I - Plumbing Groundwork",
+        "FriendlyName": "P&I - Plumbing Groundwork",
+        "ActivityType": "Inspection",
+        "ActivityTypeName": "Inspection",
+        "ActivityStatusName": "Re-inspection required with fee - Permit",
+        "CompletedOn": "2026-02-19T19:42:03.733Z",
+        "ScheduledStartDate": "2026-02-19T05:00:00Z",
+        "Status": 3
+      },
+      {
+        "Name": "P&I - Plumbing Groundwork",
+        "FriendlyName": "P&I - Plumbing Groundwork",
+        "ActivityType": "Inspection",
+        "ActivityTypeName": "Inspection",
+        "ActivityStatusName": "Passed",
+        "CompletedOn": "2026-02-23T16:19:07.56Z",
+        "ScheduledStartDate": "2026-02-23T05:00:00Z",
+        "Status": 0
+      },
+      {
+        "Name": "P&I - Footing or Monolithic Slab",
+        "FriendlyName": "P&I - Footing or Monolithic Slab",
+        "ActivityType": "Inspection",
+        "ActivityTypeName": "Inspection",
+        "ActivityStatusName": null,
+        "CompletedOn": null,
+        "ScheduledStartDate": null,
+        "Status": 1
+      },
+      {
+        "Name": "P&I - Plumbing Rough",
+        "FriendlyName": "P&I - Plumbing Rough",
+        "ActivityType": "Inspection",
+        "ActivityTypeName": "Inspection",
+        "ActivityStatusName": null,
+        "CompletedOn": null,
+        "ScheduledStartDate": null,
+        "Status": 1
+      },
+      {
+        "Name": "P&I - Mechanical Rough",
+        "FriendlyName": "P&I - Mechanical Rough",
+        "ActivityType": "Inspection",
+        "ActivityTypeName": "Inspection",
+        "ActivityStatusName": null,
+        "CompletedOn": null,
+        "ScheduledStartDate": null,
+        "Status": 1
+      },
+      {
+        "Name": "P&I - Electrical Rough",
+        "FriendlyName": "P&I - Electrical Rough",
+        "ActivityType": "Inspection",
+        "ActivityTypeName": "Inspection",
+        "ActivityStatusName": null,
+        "CompletedOn": null,
+        "ScheduledStartDate": null,
+        "Status": 1
+      },
+      {
+        "Name": "P&I - Framing",
+        "FriendlyName": "P&I - Framing",
+        "ActivityType": "Inspection",
+        "ActivityTypeName": "Inspection",
+        "ActivityStatusName": null,
+        "CompletedOn": null,
+        "ScheduledStartDate": null,
+        "Status": 1
+      },
+      {
+        "Name": "P&I - Insulation",
+        "FriendlyName": "P&I - Insulation",
+        "ActivityType": "Inspection",
+        "ActivityTypeName": "Inspection",
+        "ActivityStatusName": null,
+        "CompletedOn": null,
+        "ScheduledStartDate": null,
+        "Status": 1
+      },
+      {
+        "Name": "P&I - Plumbing Final",
+        "FriendlyName": "P&I - Plumbing Final",
+        "ActivityType": "Inspection",
+        "ActivityTypeName": "Inspection",
+        "ActivityStatusName": null,
+        "CompletedOn": null,
+        "ScheduledStartDate": null,
+        "Status": 1
+      },
+      {
+        "Name": "P&I - Mechanical Final",
+        "FriendlyName": "P&I - Mechanical Final",
+        "ActivityType": "Inspection",
+        "ActivityTypeName": "Inspection",
+        "ActivityStatusName": null,
+        "CompletedOn": null,
+        "ScheduledStartDate": null,
+        "Status": 1
+      },
+      {
+        "Name": "P&I - Electrical Final",
+        "FriendlyName": "P&I - Electrical Final",
+        "ActivityType": "Inspection",
+        "ActivityTypeName": "Inspection",
+        "ActivityStatusName": null,
+        "CompletedOn": null,
+        "ScheduledStartDate": null,
+        "Status": 1
+      },
+      {
+        "Name": "P&I - Building Final",
+        "FriendlyName": "P&I - Building Final",
+        "ActivityType": "Inspection",
+        "ActivityTypeName": "Inspection",
+        "ActivityStatusName": null,
+        "CompletedOn": null,
+        "ScheduledStartDate": null,
+        "Status": 1
+      },
+      {
+        "Name": "P&I - Zoning Final",
+        "FriendlyName": "P&I - Zoning Final",
+        "ActivityType": "Inspection",
+        "ActivityTypeName": "Inspection",
+        "ActivityStatusName": null,
+        "CompletedOn": null,
+        "ScheduledStartDate": null,
+        "Status": 1
+      },
+      {
+        "Name": "Notify Utility Companies",
+        "FriendlyName": "Notify Utility Companies",
+        "ActivityType": "GenericAction",
+        "ActivityTypeName": "Generic Action",
+        "ActivityStatusName": null,
+        "CompletedOn": null,
+        "ScheduledStartDate": null,
+        "Status": 1
+      },
+      {
+        "Name": "Issue CO",
+        "FriendlyName": "Issue CO",
+        "ActivityType": "CreateReport",
+        "ActivityTypeName": "Create Report",
+        "ActivityStatusName": null,
+        "CompletedOn": null,
+        "ScheduledStartDate": null,
+        "Status": 1
+      }
+    ]
+  }
+}
