@@ -28,19 +28,19 @@ function getSecondaryDataByName(jsonData, targetName) {
 }
 
 const requiredStatues = [
-  "Issued",
-  "In Review",
+  //"Issued",
+  // "In Review",
   "On Hold",
-  "Pending Approval",
-  "Submitted",
+  // "Pending Approval",
+  // "Submitted",
 ];
 //aprroved , in review , issued , on hold , stop work order , submitted
 
 const requiredSecondaryData = [
   "Residential - New One- and Two-Family Dwelling",
-  "Commercial New Multi Family",
-  "Commercial New Building or Addition",
-  "Residential Addition",
+  // "Commercial New Multi Family",
+  //"Commercial New Building or Addition",
+  // "Residential Addition",
 ];
 
 function getDateDaysAgo(offset = 1) {
@@ -518,7 +518,8 @@ async function getResultsforStatues(second) {
 
     console.log("Getting for status :", statusObj.Name);
 
-    payload.PermitCriteria.ApplyDateFrom = getDateDaysAgo(1); // 2 days ago
+    payload.PermitCriteria.IssueDateFrom = getDateDaysAgo(16); // 2 days ago
+    // console.log(getDateDaysAgo(15));
 
     await getAllResults(payload, statusObj.Name, "daily_permits.json"); // creates file
   }
