@@ -2,12 +2,15 @@ const fs = require("fs/promises");
 const path = require("path");
 const { createClient } = require("@supabase/supabase-js");
 
+// Load environment variables from the .env file
+require("dotenv").config();
+
 // --- 1. CONFIGURATION ---
-const SUPABASE_URL = "https://dddsaythhlflyzuxcdha.supabase.co";
-const SUPABASE_KEY = "";
+const SUPABASE_URL = process.env.SUPABASE_URL;
+const SUPABASE_KEY = process.env.SUPABASE_KEY;
 const supabase = createClient(SUPABASE_URL, SUPABASE_KEY);
 
-const TABLE_NAME = "scraper_01_test_permits"; //change this later
+const TABLE_NAME = process.env.TABLE; //change this later
 
 const BATCH_SIZE = 100;
 

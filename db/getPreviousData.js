@@ -1,10 +1,13 @@
 const { createClient } = require("@supabase/supabase-js");
 const fs = require("fs").promises;
 
+require("dotenv").config();
+
 // Replace these with your actual Supabase project URL and API key
-const supabaseUrl = "https://dddsaythhlflyzuxcdha.supabase.co";
-const supabaseKey = "";
+const supabaseUrl = process.env.SUPABASE_URL;
+const supabaseKey = process.env.SUPABASE_KEY;
 const supabase = createClient(supabaseUrl, supabaseKey);
+const table = process.env.TABLE;
 
 async function getDataByStatus(status) {
   let allPermits = [];
@@ -19,7 +22,7 @@ async function getDataByStatus(status) {
       const to = from + pageSize - 1;
 
       const { data, error } = await supabase
-        .from("scraper_01_permits")
+        .from(table)
         .select("*")
         .eq("status", status) //status here
         .range(from, to);
