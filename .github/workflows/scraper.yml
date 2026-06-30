@@ -20,7 +20,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "20" # You can change this to 18 if your local Node is older
+          node-version: "22" # You can change this to 18 if your local Node is older
 
       - name: Install dependencies
         run: npm install
