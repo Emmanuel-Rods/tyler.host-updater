@@ -28,19 +28,19 @@ function getSecondaryDataByName(jsonData, targetName) {
 }
 
 const requiredStatues = [
-  //"Issued",
-  // "In Review",
+  "Issued",
+  "In Review",
   "On Hold",
-  // "Pending Approval",
-  // "Submitted",
+  "Pending Approval",
+  "Submitted",
 ];
 //aprroved , in review , issued , on hold , stop work order , submitted
 
 const requiredSecondaryData = [
   "Residential - New One- and Two-Family Dwelling",
-  // "Commercial New Multi Family",
-  //"Commercial New Building or Addition",
-  // "Residential Addition",
+  "Commercial New Multi Family",
+  "Commercial New Building or Addition",
+  "Residential Addition",
 ];
 
 function getDateDaysAgo(offset = 1) {
