@@ -27,7 +27,7 @@ async function process(status) {
     "\x1b[33m Now cleaning and processing permit JSON files... \x1b[0m",
   );
 
-  cleanJsonFiles("permits", "cleaned_permits");
+  await cleanJsonFiles("permits", "cleaned_permits");
 
   //comparing
   console.log(
