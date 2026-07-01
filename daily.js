@@ -518,7 +518,7 @@ async function getResultsforStatues(second) {
 
     console.log("Getting for status :", statusObj.Name);
 
-    payload.PermitCriteria.IssueDateFrom = getDateDaysAgo(16); // 2 days ago
+    payload.PermitCriteria.IssueDateFrom = getDateDaysAgo(1); // 1 days ago
     // console.log(getDateDaysAgo(15));
 
     await getAllResults(payload, statusObj.Name, "daily_permits.json"); // creates file
