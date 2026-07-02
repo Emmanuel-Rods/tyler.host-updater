@@ -70,4 +70,4 @@ async function get_fees(entityId, options = {}) {
 // Export using CommonJS
 module.exports = get_fees;
 
-get_fees("612f6fa0-3191-4ee2-ac3f-e916818fde58");
+
